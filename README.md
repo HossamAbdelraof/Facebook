@@ -14,5 +14,5 @@ the full project designed in 4 steps
 > 4- code <br>
 
 ### Graph API exploler 
-first step to use facebook API is to sign up as devloper at [https://developers.facebook.com/](facebook for devlopers)
+first step to use facebook API is to sign up as devloper at [Facebook for Devlopers](https://developers.facebook.com/)
 
