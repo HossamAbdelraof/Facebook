@@ -33,11 +33,23 @@ the full project designed in 4 steps
   
 ![image](https://user-images.githubusercontent.com/81495150/138346812-74b93791-df20-4234-8662-a362f1a353da.png)
 
-#
-
 **you can create page access token for your FB pages from {user or bage} droplist**
 
 ![image](https://user-images.githubusercontent.com/81495150/138346889-9d1c07d7-ceee-40f1-9eb5-21ce835b6fb4.png)
 
+this access token is limited for 1h 
+
+ #### 2- lifelong acccess token
+ 
+ **to get lifelong access token open *My Apps* page from main bar in FB devlopers page or visit the page from [Here](https://developers.facebook.com/apps/)**<br>
+ choose your app
+ 
+ then frmo teh menu on left select ***Settings*** droplist then choose ***Basic***
+ 
+ ![image](https://user-images.githubusercontent.com/81495150/138348600-061667e2-380e-490c-8426-07034e742962.png)
+ 
+ 
+
+ 
  
 
