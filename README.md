@@ -38,6 +38,7 @@ the full project designed in 4 steps
 ![image](https://user-images.githubusercontent.com/81495150/138346889-9d1c07d7-ceee-40f1-9eb5-21ce835b6fb4.png)
 
 this access token is limited for 1h 
+*You can edit permessionb from permession menu*
 
  #### 2- lifelong acccess token
  
@@ -54,6 +55,7 @@ this access token is limited for 1h
 
 
 the lifelong access token is "***App ID***" + "|" + "***App Secret*** "
+> this token have basic permession to edit it edit the app permession by publishing the app
  
  
 
