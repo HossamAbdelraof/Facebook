@@ -32,7 +32,10 @@ the full project designed in 4 steps
   __the access token tool will generate user access token__
   
  ![image](https://user-images.githubusercontent.com/81495150/138316085-98da7fe7-02ac-4f38-b5b0-13c4a5528640.png)
-
+#
+#
+**you can create page access token for your FB pages from {user or bage} droplist**
+![image](https://user-images.githubusercontent.com/81495150/138316637-4e8adfa8-dc56-403d-bf0e-fde0e9675ddc.png)
 
  
 
