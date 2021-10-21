@@ -25,9 +25,14 @@ the full project designed in 4 steps
  #### 1- limited access token (1h)
  open [Grahp API exploler](https://developers.facebook.com/tools/explorer/) 
  
- press on generate access token and continue with your FB account
  
  ![image](https://user-images.githubusercontent.com/81495150/138315875-4bf1874f-ed74-4843-a535-1afdba81b994.png)
+ 
+  press on generate access token and continue with your FB account
+  the access token tool will generate user access token
+  
+ ![image](https://user-images.githubusercontent.com/81495150/138316085-98da7fe7-02ac-4f38-b5b0-13c4a5528640.png)
+
 
  
 
