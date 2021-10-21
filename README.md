@@ -21,6 +21,10 @@ the full project designed in 4 steps
 
 > the access token is limited for 1h but you can expand access token or get lifelong access token
 ######
+### Get Facebook Access Token
+ ##### 1- limited access token (1h)
+ open [Grahp API exploler](https://developers.facebook.com/tools/explorer/) 
+ ![image](https://user-images.githubusercontent.com/81495150/138315875-4bf1874f-ed74-4843-a535-1afdba81b994.png)
 
-<mark>Marked text</mark>
+ 
 
