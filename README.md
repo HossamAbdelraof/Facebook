@@ -48,8 +48,12 @@ this access token is limited for 1h
  
  ![image](https://user-images.githubusercontent.com/81495150/138348600-061667e2-380e-490c-8426-07034e742962.png)
  
+ in the new page copy ***App ID*** and ***App Secret*** 
  
+ ![image](https://user-images.githubusercontent.com/81495150/138348857-192569e8-be9f-436e-a36d-8a402d8ac802.png)
 
+
+the lifelong access token is "***App ID***" + "|" + "***App Secret*** "
  
  
 
