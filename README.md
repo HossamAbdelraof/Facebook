@@ -31,11 +31,11 @@ the full project designed in 4 steps
   __press on generate access token and continue with your FB account__<br>
   __the access token tool will generate user access token__
   
- ![image](https://user-images.githubusercontent.com/81495150/138316085-98da7fe7-02ac-4f38-b5b0-13c4a5528640.png)
+![image](https://user-images.githubusercontent.com/81495150/138346812-74b93791-df20-4234-8662-a362f1a353da.png)
 #
 #
 **you can create page access token for your FB pages from {user or bage} droplist**
-![image](https://user-images.githubusercontent.com/81495150/138316637-4e8adfa8-dc56-403d-bf0e-fde0e9675ddc.png)
+![image](https://user-images.githubusercontent.com/81495150/138346889-9d1c07d7-ceee-40f1-9eb5-21ce835b6fb4.png)
 
  
 
