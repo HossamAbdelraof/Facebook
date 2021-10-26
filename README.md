@@ -62,9 +62,23 @@ the lifelong access token is "***App ID***" + "|" + "***App Secret*** "
  to gather data we can user 
  #### 1- Grapi exploler 
  
-  in  graph exploler we just send ***GET*** request wuth ***id*** and the data required in comma seprated after field parameter
-  
+  in  graph exploler we just send ***GET*** request wuth ***id*** and the data required in comma seprated after ***field*** parameter
+  > we can replace ***me*** with the ***user_id*** or ***page_id*** <br>
+  > we can return multiple nisted parameters using *** {} *** after the data requested <br>
+  > like poste{message, id, comments, reactions}
+  ><br> this return post [message, id, comments, reactions ] for every post returned
+
+
   ![image](https://user-images.githubusercontent.com/81495150/138922592-2c833726-57a2-4db9-a9d6-aa57f63dd8f1.png)
-
- 
-
+  
+  
+  #### 2- Facebook API SDK 
+   we can use facebook API SDK using python to collect this data programmatically 
+   this section in repo :
+            :
+   
+##
+### code and Data 
+programmatically we can get the data in many format, we can get data with connections or fields as easiest to operate with our project
+this section shows in repo: 
+                          :
