@@ -57,5 +57,14 @@ this access token is limited for 1h
 the lifelong access token is "***App ID***" + "|" + "***App Secret*** "
 > this token have basic permession to edit it edit the app permession by publishing the app
  
+ ##
+ ### Gathering data 
+ to gather data we can user 
+ #### 1- Grapi exploler 
+ 
+  in  graph exploler we just send ***GET*** request wuth ***id*** and the data required in comma seprated after field parameter
+  
+  ![image](https://user-images.githubusercontent.com/81495150/138922592-2c833726-57a2-4db9-a9d6-aa57f63dd8f1.png)
+
  
 
