@@ -74,11 +74,14 @@ the lifelong access token is "***App ID***" + "|" + "***App Secret*** "
   
   #### 2- Facebook API SDK 
    we can use facebook API SDK using python to collect this data programmatically 
-   this section in repo :
-            :
+   this section in repo:
+   > [Facebook-Comments-Colelctor-main](https://github.com/HossamAbdelraof/Facebook/tree/main/Facebook-Comments-Colelctor-main) <br>
+   > [Facebook-graph-api-main](https://github.com/HossamAbdelraof/Facebook/tree/main/Facebook-graph-api-main)
    
 ##
 ### code and Data 
 programmatically we can get the data in many format, we can get data with connections or fields as easiest to operate with our project
-this section shows in repo: 
-                          :
+   this section in repo:
+   > [Facebook-Comments-Colelctor-main](https://github.com/HossamAbdelraof/Facebook/tree/main/Facebook-Comments-Colelctor-main) <br>
+   > [Facebook-graph-api-main](https://github.com/HossamAbdelraof/Facebook/tree/main/Facebook-graph-api-main)
+   
